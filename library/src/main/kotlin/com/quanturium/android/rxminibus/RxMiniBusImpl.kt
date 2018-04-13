@@ -11,9 +11,6 @@ class RxMiniBusImpl(private val observingMainThreadScheduler: Scheduler) : RxMin
         bus.onNext(event)
     }
 
-    /**
-     *
-     */
     override fun <E> onEvent(eventClass: Class<E>, action: (E) -> Unit): Disposable {
         return bus
                 .ofType<E>(eventClass)
