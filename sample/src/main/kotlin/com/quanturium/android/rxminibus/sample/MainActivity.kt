@@ -4,10 +4,11 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Button
 import android.widget.Toast
-import com.quanturium.rxminibus.RxMiniBus
-import com.quanturium.rxminibus.RxMiniBusImpl
-import com.quanturium.rxminibus.RxMiniBusSubscriber
-import com.quanturium.rxminibus.RxMiniBusSubscriberImpl
+import com.quanturium.android.rxminibus.RxMiniBus
+import com.quanturium.android.rxminibus.RxMiniBusImpl
+import com.quanturium.android.rxminibus.RxMiniBusSubscriber
+import com.quanturium.android.rxminibus.RxMiniBusSubscriberImpl
+import com.quanturium.rxminibus.sample.R
 import io.reactivex.android.schedulers.AndroidSchedulers
 
 class MainActivity : AppCompatActivity() {
