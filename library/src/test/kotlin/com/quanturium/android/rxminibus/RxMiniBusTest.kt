@@ -1,4 +1,4 @@
-package com.quanturium.rxminibus
+package com.quanturium.android.rxminibus
 
 import io.reactivex.schedulers.Schedulers
 import org.junit.Test

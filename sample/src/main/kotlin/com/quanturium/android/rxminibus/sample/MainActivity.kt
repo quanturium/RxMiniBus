@@ -1,4 +1,4 @@
-package com.quanturium.rxminibus.sample
+package com.quanturium.android.rxminibus.sample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
