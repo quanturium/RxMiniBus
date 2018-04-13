@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/quanturium/RxMiniBus/blob/master/LICENSE.txt)
 
 
+
 ## License
     Copyright (c) 2018 Arnaud Frugier
 
